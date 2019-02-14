@@ -29,7 +29,7 @@ Plus, Adruino nano is quite chip to build even small embedded solutions.
 
 #### 2. General idea you can see in the graph below.
 
- [![](https://home.grusdev.com/imgur/Arduino-LED-button-1.png)]()
+ [![](https://downloader.disk.yandex.ru/preview/860b0ebf7a95c92c3fbba8e640cfae3ab84c5edca142a8de7376214a13927019/5c65ac36/KKlYovBo48RsN1KQs29BQ9v4CN5QJfvSca25LQ2Im_99zVikL5ReyLiVJe-RZ75DeNJq-VEtufngDJWeQC3ouQ%3D%3D?uid=0&filename=Arduino-LED-button-2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&size=300x300)]()
 
 At the **"setup"** stage perform some initialisation :
 
