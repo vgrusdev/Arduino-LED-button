@@ -1,6 +1,3 @@
-# Arduino-LED-button
-Switch simulates a button for LED driver RF remote control
-
 #vgrusdev/Arduino-LED-button
 ----
 ##What is this ?
