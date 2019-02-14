@@ -29,7 +29,7 @@ Plus, Adruino nano is quite chip to build even small embedded solutions.
 
 #### 2. General idea you can see in the graph below.
 
- [![](https://downloader.disk.yandex.ru/preview/860b0ebf7a95c92c3fbba8e640cfae3ab84c5edca142a8de7376214a13927019/5c65ac36/KKlYovBo48RsN1KQs29BQ9v4CN5QJfvSca25LQ2Im_99zVikL5ReyLiVJe-RZ75DeNJq-VEtufngDJWeQC3ouQ%3D%3D?uid=0&filename=Arduino-LED-button-2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&size=300x300)]()
+[![](https://downloader.disk.yandex.ru/preview/025e1e2cc2a256cfb98e7cf72b6b388b0f8760affc66c9854b91db381b6798b9/5c65afbf/z4zaGFJX8tCrpfIRI4kCXt0oDRC0HP0TTToGNXncP9_mwEq7bWlTzb2WQNS4REPd-Ew_vNja_CqoA4uQvO-ZBA%3D%3D?uid=0&filename=Arduino-LED-button-1.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&size=400x400)]()
 
 At the **"setup"** stage perform some initialisation :
 
@@ -44,7 +44,7 @@ In the **"loop"**:
 
 #### 3. Arduino schematic:
 
-[![](https://home.grusdev.com/imgur/Arduino-LED-button-2.png)]()
+[![](https://downloader.disk.yandex.ru/preview/860b0ebf7a95c92c3fbba8e640cfae3ab84c5edca142a8de7376214a13927019/5c65ac36/KKlYovBo48RsN1KQs29BQ9v4CN5QJfvSca25LQ2Im_99zVikL5ReyLiVJe-RZ75DeNJq-VEtufngDJWeQC3ouQ%3D%3D?uid=0&filename=Arduino-LED-button-2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&size=400x400)]()
 
 I used Arduino Nano
 
