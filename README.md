@@ -1,8 +1,8 @@
-#vgrusdev/Arduino-LED-button
+# vgrusdev/Arduino-LED-button
 ----
-##What is this ?
+## What is this ?
 
-###Short story: 
+### Short story: 
 I have very simple LED light driver with RF remote control.
 Very simple as any other, that is now offering in the market. 
 For example like this one:
@@ -13,21 +13,21 @@ it looks like normal wall-mounted light switcher. But switcher has many thinks t
 - looks like very chip plastic mechanism,
 - instead of switchOn-switchOff (as normal switcher work), has algorithm "buttonUp, buttonDown" (very unusable for my home relatives).
 
-###My idea is:
+### My idea is:
 to make very simple device that will have a control as normal light switcher (On-Off), will press one of two buttons on remote control device (buttonUp, buttonDown).
 
 You may say, arduino is too complex solution for it. It would be enough to have something like transistor, capacitor and relay.
 I'd agree, but I wanted to try Arduino as my one of the first micro-controller project.
 Plus, Adruino nano is quite chip to build even small embedded solutions.
 
-##How it works ?
+## How it works ?
 
-####1. I've got: 
+#### 1. I've got: 
 - Arduino nano (you can use any arduino board you have),
 - two-relays 5v module,
 - RF remote controller.
 
-####2. General idea you can see in the graph below.
+#### 2. General idea you can see in the graph below.
 
 [![Switcher graph](https://home.grusdev.com/imgur/Arduino-LED-button-1.png)] (https://home.grusdev.com/imgur/Arduino-LED-button-1.png)
 
@@ -42,14 +42,14 @@ In the **"loop"**:
 - if switch change position (turned to on, or off), corresponded impulse will "click" the button (up or down).
 - Delays in the loop fix the problem of the switch contacts bounce.
 
-####3. Arduino schematic:
+#### 3. Arduino schematic:
 
 [![Arduino schematic](https://home.grusdev.com/imgur/Arduino-LED-button-2.png)] (https://home.grusdev.com/imgur/Arduino-LED-button-2.png)
 
 I used Arduino Nano
 
 pins 12, 11 - go to relays
-pin  10 - switch
+pin  10 - goes to switch
 
 LED Driver RF controller from Arlight (China - Russia).
  
