@@ -29,7 +29,7 @@ Plus, Adruino nano is quite chip to build even small embedded solutions.
 
 #### 2. General idea you can see in the graph below.
 
-[![](https://home.grusdev.com/imgur/Arduino-LED-button-1.png)] (https://home.grusdev.com/imgur/Arduino-LED-button-1.png)
+ [![] (https://home.grusdev.com/imgur/Arduino-LED-button-1.png) ] (https://home.grusdev.com/imgur/Arduino-LED-button-1.png)
 
 At the **"setup"** stage perform some initialisation :
 
@@ -44,7 +44,7 @@ In the **"loop"**:
 
 #### 3. Arduino schematic:
 
-[![](https://home.grusdev.com/imgur/Arduino-LED-button-2.png)] (https://home.grusdev.com/imgur/Arduino-LED-button-2.png)
+[![] (https://home.grusdev.com/imgur/Arduino-LED-button-2.png) ] (https://home.grusdev.com/imgur/Arduino-LED-button-2.png)
 
 I used Arduino Nano
 
